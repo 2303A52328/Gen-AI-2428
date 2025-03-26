@@ -6,4 +6,5 @@ LAB 4-https://github.com/2303A52328/Gen-AI-2428/blob/main/2303A52428_week_4_LAB_
 LAB 5:https://github.com/2303A52328/Gen-AI-2428/blob/main/2303A52428_week_5_5_1.ipynb
 LAB 6.1:https://github.com/2303A52328/Gen-AI-2428/blob/main/2303A52428_genAI_lab_6_1.ipynb
 LAB 7:https://github.com/2303A52328/Gen-AI-2428/blob/main/Gen_AI_lab_7_1.ipynb
+LAB 8.1:https://github.com/2303A52328/Gen-AI-2428/blob/main/2303A52428_GEN_AI_Week_8_1.ipynb
 LAB 9.1:https://github.com/2303A52328/Gen-AI-2428/blob/main/2303A52428_GEN_AI_Weekm_9_1.ipynb
